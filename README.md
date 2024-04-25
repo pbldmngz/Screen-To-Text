@@ -1,4 +1,4 @@
-# ScreenToText
+# Screen To Text Data Trasfer: When data is completelly locked
 Recover files from a computer with no wired or wireless conections using computer vision and notepad.
 
 > This program was created to automatically transcribe .patch files (git "recovery" files) from a computer that was suddently unable to transmit data (wired or not) and the only output generated was the screen. ** I've only tested it on text based files. **
